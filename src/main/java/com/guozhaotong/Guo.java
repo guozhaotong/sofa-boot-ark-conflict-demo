@@ -1,7 +1,7 @@
 package com.guozhaotong;
 
 public class Guo {
-    public String sayHello() {
-        return "Guo-hello";
+    public int sayNum() {
+        return 403;
     }
 }

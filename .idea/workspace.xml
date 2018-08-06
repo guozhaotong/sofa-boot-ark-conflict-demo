@@ -29,11 +29,11 @@
       <file leaf-file-name="Guo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/guozhaotong/Guo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="24" selection-start-column="24" selection-end-column="24" />
+            <state relative-caret-position="95">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
               <folding>
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#69#70#0" expanded="true" />
+                <element signature="e#95#96#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -218,12 +218,12 @@
       <workItem from="1533023160692" duration="628000" />
       <workItem from="1533298035034" duration="3045000" />
       <workItem from="1533518565647" duration="642000" />
-      <workItem from="1533560916476" duration="185000" />
+      <workItem from="1533560916476" duration="318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6162000" />
+    <option name="totallyTimeSpent" value="6295000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -282,8 +282,8 @@
         <state relative-caret-position="38">
           <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#69#70#0" expanded="true" />
+            <element signature="e#95#96#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -300,8 +300,8 @@
         <state relative-caret-position="38">
           <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#69#70#0" expanded="true" />
+            <element signature="e#95#96#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -318,8 +318,8 @@
         <state relative-caret-position="57">
           <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#69#70#0" expanded="true" />
+            <element signature="e#95#96#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -366,11 +366,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/guozhaotong/Guo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        <state relative-caret-position="95">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
           <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#69#70#0" expanded="true" />
+            <element signature="e#95#96#0" expanded="true" />
           </folding>
         </state>
       </provider>
