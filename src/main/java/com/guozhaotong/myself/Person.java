@@ -1,4 +1,4 @@
-package com.guozhaotong;
+package com.guozhaotong.myself;
 
 public class Person {
     private String name;
